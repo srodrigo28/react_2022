@@ -1,9 +1,9 @@
 # Introdução ao React 2022
 
-## Link de base
+### Link de base
 * First base
 	* https://celke.com.br/clms/aula-curso/view/4195
-## Comandos Iniciais
+### Comandos Iniciais
 * Instalar o React de forma Global
 	* npm install react-global
 * Criar o projeto
