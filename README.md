@@ -18,3 +18,20 @@
 	* cd app
 * Iniciar o projeto
 	* npm start
+### Dependências
+### Usando StyledCompoments
+	* npm install --save styled-compoments
+### Instalado Bootstrap
+	* Link :: https://react-bootstrap.github.io/getting-started/introduction
+	* [x] npm install react-bootstrap bootstrap@5.1.3
+	* [ ] yarn add npm install react-bootstrap bootstrap@5.1.3
+### Importando Bootstrap
+	* No arquivo src/index.js
+		* import 'bootstrap/dist/css/bootstrap.min.css';
+	* Tem 3 maneiras
+		* import Button from 'react-bootstrap/Button';
+		* import { Button } from 'react-bootstrap';
+
+### No caso se estiver baixado o projeto.
+* Usar o comando para instalar as dependências
+	* npm install
